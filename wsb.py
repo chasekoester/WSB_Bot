@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/11jDapXXC3fsbzLvnWS3JRnTijqnjF_FN
 """
 
-pip install praw vaderSentiment pandas asyncpraw
 
 import asyncpraw
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
